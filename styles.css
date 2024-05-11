@@ -15,7 +15,7 @@ body {
     height: 100vh;
 }
 
-.signup-container {
+.login-container {
     width: 300px;
     padding: 20px;
     background-color: #fff;
@@ -23,7 +23,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.signup-form h2 {
+.login-form h2 {
     margin-bottom: 20px;
 }
 
@@ -36,8 +36,7 @@ body {
     margin-bottom: 5px;
 }
 
-.input-group input,
-.input-group textarea {
+.input-group input {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
